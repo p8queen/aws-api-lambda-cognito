@@ -1,4 +1,4 @@
-## Notes
+## Notes by Gustavo Carmona - Certified Cloud Architect - 
 
 The Users pool have username, email, password for each user. You want send username, password and get Token.   
 
