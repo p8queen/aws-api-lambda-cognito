@@ -4,16 +4,16 @@ The Users pool have username, email, password for each user. You want send usern
 
 ![Cloud Architecture](./images/Cognito.png "Cloud Architecture")    
 
-First:   
+**First:**   
 Amazon Cognito -> Users pool - > User pool name -> App Integration -> app client Name 
 -> show details/Edit -> Authentication flows -> Allow user-password-auth flow for app-based authentication (USER_PASSWORD_AUTH).
 
-Second:   
+**Second:**   
 LambaFunction.py and main.py have almost the same code. Find Lambda Environment variables !!     
 
 ![Env Variables](./images/CognitoLambda1.png "Env Variables")   
 
-Third:  
+**Third:**  
 Write local Python Code as in main.py
 
 Four:   
