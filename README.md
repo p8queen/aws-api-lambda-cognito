@@ -17,7 +17,7 @@ LambaFunction.py and main.py have almost the same code. Find Lambda Environment 
 Write local Python Code as in main.py
 
 Four:   
-You can use PostMan as is shown in the Image Below to test the API and Lambda Function 
+You can use Postman, as shown in the image below, to test the API and Lambda function.
 
 ![PostMan](./images/CognitoPostman.png "PostMan")   
 
